@@ -1,0 +1,29 @@
+<hibernate-configuration>
+
+<session-factory>
+
+<!-- Database Connection Settings -->
+
+<property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+
+<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/shopdb</property>
+
+<property name="hibernate.connection.username">root</property>
+
+<property name="hibernate.connection.password"></property>
+
+
+<!-- Hibernate Settings -->
+
+<property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+
+<property name="hibernate.show_sql">true</property>
+
+<property name="hibernate.format_sql">true</property>
+
+<mapping class="com.Shop.ShopManagement.User"/>
+<mapping class="com.Shop.ShopManagement.Product"/>
+
+</session-factory>
+
+</hibernate-configuration>
