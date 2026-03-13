@@ -173,7 +173,7 @@ App.java
 ## 👨‍💻 Author
 
 **Peetla Mahesh**
-Aspiring Software Developer
+Aspiring Backend Software Developer
 📍 Tirupati, Andhra Pradesh, India
 
 ---
