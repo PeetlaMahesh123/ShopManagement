@@ -1,5 +1,6 @@
 
-
+## 📘 **Shop Management System**
+**Hibernate + Maven | Java Desktop Application**
 
 ---
 
