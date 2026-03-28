@@ -3,6 +3,11 @@
 **Hibernate + Maven | Java Desktop Application**
 
 ---
+## 📌 Project Overview
+The **Shop Management System** is a Java-based desktop application developed using **Hibernate ORM and Maven**.
+It provides **admin-only access** to manage users and products with full **CRUD operations**, role-based access control, and database persistence.
+
+---
 
 ## 🚀 Features
 
