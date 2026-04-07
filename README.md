@@ -3,15 +3,7 @@
 Hibernate based shop management system for maintaining shop retail details
 ---
 
-## 🚀 Features
 
-* 🔐 Admin Login Authentication
-* 👥 User Management (CRUD)
-* 📦 Product Management (CRUD)
-* 🧑‍💼 Role-based access using Enum (ADMIN / USER)
-* 🗄️ Hibernate ORM with MySQL
-* 🖥️ Java Swing UI
-* 📁 Maven project structure
 
 ---
 ## 🛠️ Technologies Used
