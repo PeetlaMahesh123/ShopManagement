@@ -3,7 +3,7 @@ Hibernate based shop management system for maintaining shop retail details
  
 ---
 
-## 🚀 Features
+## 🚀 
 
 * 🔐 Admin Login Authentication
 * 👥 User Management (CRUD)
