@@ -1,4 +1,5 @@
 ## Shop Management System
+Hibernate based shop management system for maintaining shop retail details
  
 ---
 
