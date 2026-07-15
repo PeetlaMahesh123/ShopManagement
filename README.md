@@ -16,12 +16,7 @@ Hibernate based shop management system for maintaining shop retail details
 ---
 ## 🛠️ Technologies Used
 
-* **Java**
-* **Hibernate (JPA)**
-* **Maven**
-* **MySQL**
-* **Java Swing**
-* **DAO Design Pattern**
+
 
 ---
 
